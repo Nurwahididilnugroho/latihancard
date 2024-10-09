@@ -17,7 +17,6 @@ File `latihan2.html` adalah contoh sederhana yang menunjukkan cara membuat card 
 
 - **HTML**: Struktur dasar dari halaman.
 - **CSS**: Untuk penataan dan tata letak card.
-- **JavaScript (Opsional)**: Jika diperlukan untuk interaktivitas tambahan.
 
 ## Cara Menjalankan
 
